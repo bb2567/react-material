@@ -5,7 +5,7 @@ export default class LoginBox extends Component {
     render() {
         return (
             <>
-                <Button variant="contained">Hello</Button>
+                 <Button variant="contained">Hello</Button>
             </>
         )
     }
